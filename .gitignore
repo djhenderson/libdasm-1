@@ -4,4 +4,6 @@ Makefile
 *.a
 *.so
 cmake_install.cmake
+*.dll
+*.bak
 
